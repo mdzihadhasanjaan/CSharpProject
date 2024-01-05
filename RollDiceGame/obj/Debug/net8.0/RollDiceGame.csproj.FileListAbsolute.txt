@@ -1,0 +1,15 @@
+C:\Project\CSharpProject\RollDiceGame\bin\Debug\net8.0\RollDiceGame.exe
+C:\Project\CSharpProject\RollDiceGame\bin\Debug\net8.0\RollDiceGame.deps.json
+C:\Project\CSharpProject\RollDiceGame\bin\Debug\net8.0\RollDiceGame.runtimeconfig.json
+C:\Project\CSharpProject\RollDiceGame\bin\Debug\net8.0\RollDiceGame.dll
+C:\Project\CSharpProject\RollDiceGame\bin\Debug\net8.0\RollDiceGame.pdb
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.AssemblyInfoInputs.cache
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.AssemblyInfo.cs
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.csproj.CoreCompileInputs.cache
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.sourcelink.json
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.dll
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\refint\RollDiceGame.dll
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.pdb
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\RollDiceGame.genruntimeconfig.cache
+C:\Project\CSharpProject\RollDiceGame\obj\Debug\net8.0\ref\RollDiceGame.dll
