@@ -1,0 +1,15 @@
+C:\Project\CSharpProject\InventoryCalculation\bin\Debug\net8.0\InventoryCalculation.exe
+C:\Project\CSharpProject\InventoryCalculation\bin\Debug\net8.0\InventoryCalculation.deps.json
+C:\Project\CSharpProject\InventoryCalculation\bin\Debug\net8.0\InventoryCalculation.runtimeconfig.json
+C:\Project\CSharpProject\InventoryCalculation\bin\Debug\net8.0\InventoryCalculation.dll
+C:\Project\CSharpProject\InventoryCalculation\bin\Debug\net8.0\InventoryCalculation.pdb
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.AssemblyInfoInputs.cache
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.AssemblyInfo.cs
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.csproj.CoreCompileInputs.cache
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.sourcelink.json
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.dll
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\refint\InventoryCalculation.dll
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.pdb
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\InventoryCalculation.genruntimeconfig.cache
+C:\Project\CSharpProject\InventoryCalculation\obj\Debug\net8.0\ref\InventoryCalculation.dll
